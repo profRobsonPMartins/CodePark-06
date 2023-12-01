@@ -2,7 +2,7 @@
 
 **TURMA 2ºB - E.E YOLLANDA ARAUJO SILVA PAIVA - 2023 - E.M**
 
-Bem-vindo ao repositório CodePark-01, onde você encontrará os arquivos do meu portfólio.
+Bem-vindo ao repositório CodePark-06, onde você encontrará os arquivos do meu portfólio.
 
 ## Sobre o Projeto
 
