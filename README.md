@@ -1,4 +1,4 @@
-# CodePark-06 - Meu Portfólio 🚀
+# CodePark-06 - Meus cards de serviços com flexbox 🚀
 
 **TURMA 2ºB - E.E YOLLANDA ARAUJO SILVA PAIVA - 2023 - E.M**
 
@@ -19,13 +19,12 @@ O modelo Flexbox foi utilizado em determinados elementos para proporcionar movim
 Exemplo didático de código em CSS utilizando Flexbox:
 
 ```css
-/* Aplicando Flexbox no Container Principal */
-.container {
+.flex-container {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    /* Adicione mais propriedades conforme necessário */
+    height: 400px;
+    background-color: #f0f0f0;
 }
 ```
 
