@@ -1,4 +1,4 @@
-# CodePark-01 - Meu Portfólio 🚀
+# CodePark-06 - Meu Portfólio 🚀
 
 **TURMA 2ºB - E.E YOLLANDA ARAUJO SILVA PAIVA - 2023 - E.M**
 
